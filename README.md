@@ -1,1 +1,1 @@
-# long-running-task-with-trackable-progress
+Moved to https://github.com/Streeling/java-case-studies/tree/main/long-running-task-with-trackable-progress.
